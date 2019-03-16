@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CarGameEngine/Controller.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GeneticAlgorithm.cs" Line="38" Column="5" />
+      <File FileName="Assets/Scripts/CarGameEngine/EvolvingCarControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GeneticIndividual.cs" Line="55" Column="29" />
+      <File FileName="Assets/Scripts/Individual.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MetaHeuristic.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TournamentSelection.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CarGameEngine/Controller.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
